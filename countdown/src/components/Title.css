@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+  margin: 1rem auto;
+  font-size: 2.4rem;
+}
+
+.counter_number {
+  background-color: black;
+  color: #fff;
+  padding: 1.2rem;
+  border-radius: .8rem;
+  font-size: 3.2rem;
+  font-weight: bold;
+  min-width: 80px;
+  text-align: center;
+}
